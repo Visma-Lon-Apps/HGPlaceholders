@@ -7,6 +7,8 @@
 //
 
 import Foundation
+import UIKit
+import CoreGraphics
 
 /// This class is responsible for implementing the `UITableViewDataSource` and `UITableViewDelegate` protocols.
 /// Each placeholder view is an tableview with one cell, that takes all the tableview frame
